@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/Visit_Our_Medium-000.svg?style=socail&logo=medium&logoColor=white)](https://megaease.medium.com/)
 [![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:service@megaease.com)
 
-### Latest Release
+### Latest Releases
 
 {{- range rss "https://github.com/megaease/easegress/releases.atom" 1 }}
 - Easegress [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easegress), released {{ humanize .PublishedAt }})
