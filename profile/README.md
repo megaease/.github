@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/Visit_Our_Medium-000.svg?style=socail&logo=medium&logoColor=white)](https://megaease.medium.com/)
 [![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:service@megaease.com)
 
-### Latest Release
+### Latest Releases
 - Easegress [easegress-v1.5.0](https://github.com/megaease/easegress/releases/tag/v1.5.0) ([Source Code](https://github.com/megaease/easegress), released 3 weeks ago)
 - EaseMesh [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) ([Source Code](https://github.com/megaease/easemesh), released 2 days ago)
 - EaseAgent [easeagent-v2.1.1](https://github.com/megaease/easeagent/releases/tag/v2.1.1) ([Source Code](https://github.com/megaease/easeagent), released today )
