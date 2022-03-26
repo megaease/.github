@@ -3,7 +3,7 @@ name: Update Profile
 on:
   push:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *" # Every day at 00:00
 
 jobs:
   markscribe:
@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: 'docs: Update generated README'
+          commit_message: "docs: Update generated README"
           branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
