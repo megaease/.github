@@ -19,6 +19,9 @@
 {{- range rss "https://github.com/megaease/easeagent/releases.atom" 1 }}
 - EaseAgent [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easeagent), released {{ humanize .PublishedAt }} )
 {{- end }}
+{{- range rss "https://github.com/megaease/easeprobe/releases.atom" 1 }}
+- EaseProbe [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easeprobe), released {{ humanize .PublishedAt }} )
+{{- end }}
 
 ### Latest Posts
 
