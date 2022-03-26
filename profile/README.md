@@ -7,6 +7,15 @@
 [![](https://img.shields.io/badge/Join_Our_Slack-4A154B.svg?style=socail&logo=slack&logoColor=white)](https://join.slack.com/t/openmegaease/shared_invite/zt-upo7v306-lYPHvVwKnvwlqR0Zl2vveA) 
 [![](https://img.shields.io/badge/Visit_Our_Medium-000.svg?style=socail&logo=medium&logoColor=white)](https://megaease.medium.com/)
 [![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:service@megaease.com)
-- Easegress [easegress-v1.5.0](https://github.com/megaease/easegress/releases/tag/v1.5.0) ([OSS](https://github.com/megaease/easegress), _released 3 weeks ago_)
-- EaseMesh [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) ([PRO](https://github.com/megaease/easemesh), _released 2 days ago_)
-- EaseAgent [v2.1.1](https://github.com/megaease/easeagent/releases/tag/v2.1.1) ([OSS](https://github.com/megaease/easeagent), _released 2 weeks ago_)
+
+### Latest Release
+- Easegress [easegress-v1.5.0](https://github.com/megaease/easegress/releases/tag/v1.5.0) ([Source Code](https://github.com/megaease/easegress), released 3 weeks ago)
+- EaseMesh [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) ([Source Code](https://github.com/megaease/easemesh), released 2 days ago)
+- EaseAgent [easeagent-v2.1.1](https://github.com/megaease/easeagent/releases/tag/v2.1.1) ([Source Code](https://github.com/megaease/easeagent), released today )
+
+### Latest Posts
+- [Full Stack Multiple Canary Release](https://megaease.medium.com/full-stack-multiple-canary-release-ed5f72238a96?source=rss-f6888079771f------2) (1 week ago)
+- [Full Stack Stress Test on Production](https://megaease.medium.com/full-stack-stress-test-on-production-806591428d4d?source=rss-f6888079771f------2) (1 week ago)
+- [Extend Backend Application With WebAssembly](https://medium.com/codex/extend-backend-application-with-webassembly-ba19c17016d3?source=rss-f6888079771f------2) (6 months ago)
+- [How to do an online flash sale event with Easegress and WebAssembly](https://medium.com/codex/how-to-do-an-online-flash-sale-event-with-easegress-and-webassembly-5456b150eed5?source=rss-f6888079771f------2) (6 months ago)
+- [A Spring Cloud Compatible Service Mesh](https://medium.com/codex/a-spring-cloud-compatible-service-mesh-6ce58c571012?source=rss-f6888079771f------2) (7 months ago)
