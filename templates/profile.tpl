@@ -8,13 +8,20 @@
 [![](https://img.shields.io/badge/Visit_Our_Medium-000.svg?style=socail&logo=medium&logoColor=white)](https://megaease.medium.com/)
 [![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:service@megaease.com)
 
+### Latest Release
 
 {{- range rss "https://github.com/megaease/easegress/releases.atom" 1 }}
-- Easegress [{{ .Title }}]({{ .URL }}) ([OSS](https://github.com/megaease/easegress), _released {{ humanize .PublishedAt }}_)
+- Easegress [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easegress), released {{ humanize .PublishedAt }})
 {{- end }}
 {{- range rss "https://github.com/megaease/easemesh/releases.atom" 1 }}
-- EaseMesh [{{ .Title }}]({{ .URL }}) ([PRO](https://github.com/megaease/easemesh), _released {{ humanize .PublishedAt }}_)
+- EaseMesh [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easemesh), released {{ humanize .PublishedAt }})
 {{- end }}
 {{- range rss "https://github.com/megaease/easeagent/releases.atom" 1 }}
-- EaseAgent [{{ .Title }}]({{ .URL }}) ([OSS](https://github.com/megaease/easeagent), _released {{ humanize .PublishedAt }}_)
+- EaseAgent [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easeagent), released {{ humanize .PublishedAt }} )
+{{- end }}
+
+### Latest Posts
+
+{{- range rss "https://megaease.medium.com/feed" 5 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
