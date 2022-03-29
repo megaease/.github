@@ -10,12 +10,12 @@
 
 ### Latest Releases
 - Easegress [easegress-v1.5.0](https://github.com/megaease/easegress/releases/tag/v1.5.0) ([Source Code](https://github.com/megaease/easegress), released 3 weeks ago)
-- EaseMesh [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) ([Source Code](https://github.com/megaease/easemesh), released 4 days ago)
-- EaseAgent [easeagent-v2.1.1](https://github.com/megaease/easeagent/releases/tag/v2.1.1) ([Source Code](https://github.com/megaease/easeagent), released 2 days ago )
+- EaseMesh [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) ([Source Code](https://github.com/megaease/easemesh), released 1 day ago)
+- EaseAgent [easeagent-v2.1.1](https://github.com/megaease/easeagent/releases/tag/v2.1.1) ([Source Code](https://github.com/megaease/easeagent), released 3 days ago )
 - EaseProbe [easeprobe-v1.1.0](https://github.com/megaease/easeprobe/releases/tag/v1.1.0) ([Source Code](https://github.com/megaease/easeprobe), released 1 day ago )
 
 ### Latest Posts
-- [Full Stack Multiple Canary Release](https://megaease.medium.com/full-stack-multiple-canary-release-ed5f72238a96?source=rss-f6888079771f------2) (1 week ago)
+- [Full Stack Multiple Canary Release](https://megaease.medium.com/full-stack-multiple-canary-release-ed5f72238a96?source=rss-f6888079771f------2) (2 weeks ago)
 - [Full Stack Stress Test on Production](https://megaease.medium.com/full-stack-stress-test-on-production-806591428d4d?source=rss-f6888079771f------2) (2 weeks ago)
 - [Extend Backend Application With WebAssembly](https://medium.com/codex/extend-backend-application-with-webassembly-ba19c17016d3?source=rss-f6888079771f------2) (6 months ago)
 - [How to do an online flash sale event with Easegress and WebAssembly](https://medium.com/codex/how-to-do-an-online-flash-sale-event-with-easegress-and-webassembly-5456b150eed5?source=rss-f6888079771f------2) (6 months ago)
