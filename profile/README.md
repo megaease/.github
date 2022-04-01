@@ -10,9 +10,9 @@
 
 ### Latest Releases
 - Easegress [easegress-v1.5.0](https://github.com/megaease/easegress/releases/tag/v1.5.0) ([Source Code](https://github.com/megaease/easegress), released 4 weeks ago)
-- EaseMesh [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) ([Source Code](https://github.com/megaease/easemesh), released 3 days ago)
-- EaseAgent [easeagent-v2.1.1](https://github.com/megaease/easeagent/releases/tag/v2.1.1) ([Source Code](https://github.com/megaease/easeagent), released 5 days ago )
-- EaseProbe [easeprobe-v1.1.0](https://github.com/megaease/easeprobe/releases/tag/v1.1.0) ([Source Code](https://github.com/megaease/easeprobe), released 3 days ago )
+- EaseMesh [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) ([Source Code](https://github.com/megaease/easemesh), released 4 days ago)
+- EaseAgent [easeagent-v2.1.1](https://github.com/megaease/easeagent/releases/tag/v2.1.1) ([Source Code](https://github.com/megaease/easeagent), released 6 days ago )
+- EaseProbe [easeprobe-v1.2.0](https://github.com/megaease/easeprobe/releases/tag/v1.2.0) ([Source Code](https://github.com/megaease/easeprobe), released 1 day ago )
 
 ### Latest Posts
 - [Full Stack Multiple Canary Release](https://megaease.medium.com/full-stack-multiple-canary-release-ed5f72238a96?source=rss-f6888079771f------2) (2 weeks ago)
