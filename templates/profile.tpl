@@ -1,4 +1,4 @@
-# <img src=https://megaease.com/favicon.png width=32px align=center> MegaEase 
+# <img src=https://megaease.com/favicon.png width=32px align=center> MegaEase  [![](https://shields.io/github/stars/megaease?style=social)](https://github.com/megaease/)
 
 [![](https://img.shields.io/badge/MegaEase.com-2442bf.svg?style=socail&logo=googlechrome&logoColor=white)](https://megaease.com/)
 [![](https://img.shields.io/twitter/follow/megaease?style=social)](https://twitter.com/megaease) 
@@ -11,16 +11,16 @@
 ### Latest Releases
 
 {{- range rss "https://github.com/megaease/easegress/releases.atom" 1 }}
-- Easegress [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easegress), released {{ humanize .PublishedAt }})
+- [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [{{ .Title }}]({{ .URL }}) (Released {{ humanize .PublishedAt }})
 {{- end }}
 {{- range rss "https://github.com/megaease/easemesh/releases.atom" 1 }}
-- EaseMesh [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easemesh), released {{ humanize .PublishedAt }})
+- [EaseMesh ![](https://shields.io/github/stars/megaease/easemesh?style=social)](https://github.com/megaease/easemesh) -  [{{ .Title }}]({{ .URL }}) (Released {{ humanize .PublishedAt }})
 {{- end }}
 {{- range rss "https://github.com/megaease/easeagent/releases.atom" 1 }}
-- EaseAgent [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easeagent), released {{ humanize .PublishedAt }} )
+- [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [{{ .Title }}]({{ .URL }}) (Released {{ humanize .PublishedAt }} )
 {{- end }}
 {{- range rss "https://github.com/megaease/easeprobe/releases.atom" 1 }}
-- EaseProbe [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/megaease/easeprobe), released {{ humanize .PublishedAt }} )
+- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [{{ .Title }}]({{ .URL }}) ( Released {{ humanize .PublishedAt }} )
 {{- end }}
 
 ### Latest Posts
