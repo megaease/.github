@@ -1,4 +1,4 @@
-# <img src=https://megaease.com/favicon.png width=32px align=center> MegaEase 
+# <img src=https://megaease.com/favicon.png width=32px align=center> MegaEase  [![](https://shields.io/github/stars/megaease?style=social)](https://github.com/megaease/)
 
 [![](https://img.shields.io/badge/MegaEase.com-2442bf.svg?style=socail&logo=googlechrome&logoColor=white)](https://megaease.com/)
 [![](https://img.shields.io/twitter/follow/megaease?style=social)](https://twitter.com/megaease) 
@@ -9,10 +9,10 @@
 [![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:service@megaease.com)
 
 ### Latest Releases
-- Easegress [easegress-v1.5.0](https://github.com/megaease/easegress/releases/tag/v1.5.0) ([Source Code](https://github.com/megaease/easegress), released 4 weeks ago)
-- EaseMesh [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) ([Source Code](https://github.com/megaease/easemesh), released 4 days ago)
-- EaseAgent [easeagent-v2.1.1](https://github.com/megaease/easeagent/releases/tag/v2.1.1) ([Source Code](https://github.com/megaease/easeagent), released 6 days ago )
-- EaseProbe [easeprobe-v1.2.0](https://github.com/megaease/easeprobe/releases/tag/v1.2.0) ([Source Code](https://github.com/megaease/easeprobe), released 1 day ago )
+- [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [easegress-v1.5.0](https://github.com/megaease/easegress/releases/tag/v1.5.0) (Released 4 weeks ago)
+- [EaseMesh ![](https://shields.io/github/stars/megaease/easemesh?style=social)](https://github.com/megaease/easemesh) -  [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) (Released 4 days ago)
+- [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [easeagent-v2.1.1](https://github.com/megaease/easeagent/releases/tag/v2.1.1) (Released 6 days ago )
+- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v1.2.0](https://github.com/megaease/easeprobe/releases/tag/v1.2.0) ( Released 1 day ago )
 
 ### Latest Posts
 - [Full Stack Multiple Canary Release](https://megaease.medium.com/full-stack-multiple-canary-release-ed5f72238a96?source=rss-f6888079771f------2) (2 weeks ago)
