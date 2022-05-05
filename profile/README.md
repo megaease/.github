@@ -12,7 +12,7 @@
 - [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [easegress-v1.5.1](https://github.com/megaease/easegress/releases/tag/v1.5.1) (Released 4 weeks ago)
 - [EaseMesh ![](https://shields.io/github/stars/megaease/easemesh?style=social)](https://github.com/megaease/easemesh) -  [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) (Released 1 month ago)
 - [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [easeagent-v2.2.0](https://github.com/megaease/easeagent/releases/tag/v2.2.0) (Released 2 weeks ago )
-- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v1.4.0](https://github.com/megaease/easeprobe/releases/tag/v1.4.0) ( Released 5 days ago )
+- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v1.4.0](https://github.com/megaease/easeprobe/releases/tag/v1.4.0) ( Released 6 days ago )
 
 ### Latest Posts
 - [Full Stack Multiple Canary Release](https://megaease.medium.com/full-stack-multiple-canary-release-ed5f72238a96?source=rss-f6888079771f------2) (1 month ago)
