@@ -11,7 +11,7 @@
 ### Latest Releases
 - [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [easegress-v1.5.2](https://github.com/megaease/easegress/releases/tag/v1.5.2) (Released 1 week ago)
 - [EaseMesh ![](https://shields.io/github/stars/megaease/easemesh?style=social)](https://github.com/megaease/easemesh) -  [easemesh-v1.3.0](https://github.com/megaease/easemesh/releases/tag/v1.3.0) (Released 1 month ago)
-- [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [easeagent-v2.2.1](https://github.com/megaease/easeagent/releases/tag/v2.2.1) (Released 1 week ago )
+- [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [easeagent-v2.2.1](https://github.com/megaease/easeagent/releases/tag/v2.2.1) (Released 2 weeks ago )
 - [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v1.4.0](https://github.com/megaease/easeprobe/releases/tag/v1.4.0) ( Released 3 weeks ago )
 
 ### Latest Posts
@@ -19,4 +19,4 @@
 - [Full Stack Stress Test on Production](https://megaease.medium.com/full-stack-stress-test-on-production-806591428d4d?source=rss-f6888079771f------2) (2 months ago)
 - [Extend Backend Application With WebAssembly](https://medium.com/codex/extend-backend-application-with-webassembly-ba19c17016d3?source=rss-f6888079771f------2) (8 months ago)
 - [How to do an online flash sale event with Easegress and WebAssembly](https://medium.com/codex/how-to-do-an-online-flash-sale-event-with-easegress-and-webassembly-5456b150eed5?source=rss-f6888079771f------2) (8 months ago)
-- [A Spring Cloud Compatible Service Mesh](https://medium.com/codex/a-spring-cloud-compatible-service-mesh-6ce58c571012?source=rss-f6888079771f------2) (8 months ago)
+- [A Spring Cloud Compatible Service Mesh](https://medium.com/codex/a-spring-cloud-compatible-service-mesh-6ce58c571012?source=rss-f6888079771f------2) (9 months ago)
