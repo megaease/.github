@@ -11,7 +11,7 @@
 ### Latest Releases
 - [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [easegress-v2.3.0](https://github.com/megaease/easegress/releases/tag/v2.3.0) (Released 1 week ago)
 - [EaseMesh ![](https://shields.io/github/stars/megaease/easemesh?style=social)](https://github.com/megaease/easemesh) -  [easemesh-v2.2.1](https://github.com/megaease/easemesh/releases/tag/v2.2.1) (Released 4 weeks ago)
-- [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [easeagent-v2.2.4](https://github.com/megaease/easeagent/releases/tag/v2.2.4) (Released 5 days ago )
+- [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [easeagent-v2.2.4](https://github.com/megaease/easeagent/releases/tag/v2.2.4) (Released 6 days ago )
 - [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v1.9.0](https://github.com/megaease/easeprobe/releases/tag/v1.9.0) ( Released 1 month ago )
 
 ### Latest Posts
