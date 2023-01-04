@@ -9,10 +9,10 @@
 [![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:service@megaease.com)
 
 ### Latest Releases
-- [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [easegress-v2.3.1](https://github.com/megaease/easegress/releases/tag/v2.3.1) (Released 6 days ago)
+- [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [easegress-v2.3.1](https://github.com/megaease/easegress/releases/tag/v2.3.1) (Released 1 week ago)
 - [EaseMesh ![](https://shields.io/github/stars/megaease/easemesh?style=social)](https://github.com/megaease/easemesh) -  [easemesh-v2.2.1](https://github.com/megaease/easemesh/releases/tag/v2.2.1) (Released 1 month ago)
 - [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [easeagent-v2.2.4](https://github.com/megaease/easeagent/releases/tag/v2.2.4) (Released 1 month ago )
-- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v2.0.0](https://github.com/megaease/easeprobe/releases/tag/v2.0.0) ( Released 3 weeks ago )
+- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v2.0.0](https://github.com/megaease/easeprobe/releases/tag/v2.0.0) ( Released 4 weeks ago )
 
 ### Latest Posts
 - [Build A Telegram Translation Bot With Easegress](https://medium.com/codex/build-a-telegram-translation-bot-with-easegress-194bc48cbd6e?source=rss-f6888079771f------2) (4 months ago)
