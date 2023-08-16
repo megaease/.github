@@ -9,10 +9,10 @@
 [![](https://img.shields.io/badge/Contact_Us-green.svg?style=socail&logo=gmail&logoColor=white)](mailto:service@megaease.com)
 
 ### Latest Releases
-- [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [easegress-v2.5.3](https://github.com/megaease/easegress/releases/tag/v2.5.3) (Released 1 week ago)
+- [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [easegress-v2.5.3](https://github.com/megaease/easegress/releases/tag/v2.5.3) (Released 2 weeks ago)
 - [EaseMesh ![](https://shields.io/github/stars/megaease/easemesh?style=social)](https://github.com/megaease/easemesh) -  [easemesh-v2.2.1](https://github.com/megaease/easemesh/releases/tag/v2.2.1) (Released 9 months ago)
 - [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [easeagent-v2.2.6](https://github.com/megaease/easeagent/releases/tag/v2.2.6) (Released 4 months ago )
-- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v2.1.1](https://github.com/megaease/easeprobe/releases/tag/v2.1.1) ( Released 6 days ago )
+- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v2.1.1](https://github.com/megaease/easeprobe/releases/tag/v2.1.1) ( Released 1 week ago )
 
 ### Latest Posts
 - [MegaEase Cloud 2023.03 Significant Update](https://megaease.medium.com/megaease-cloud-2023-03-significant-update-976482c5d49e?source=rss-f6888079771f------2) (4 months ago)
