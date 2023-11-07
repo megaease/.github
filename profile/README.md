@@ -12,7 +12,7 @@
 - [Easegress ![](https://shields.io/github/stars/megaease/easegress?style=social)](https://github.com/megaease/easegress) - [easegress-v2.6.2](https://github.com/megaease/easegress/releases/tag/v2.6.2) (Released 2 weeks ago)
 - [EaseMesh ![](https://shields.io/github/stars/megaease/easemesh?style=social)](https://github.com/megaease/easemesh) -  [easemesh-v2.2.1](https://github.com/megaease/easemesh/releases/tag/v2.2.1) (Released 1 year ago)
 - [EaseAgent  ![](https://shields.io/github/stars/megaease/easeagent?style=social)](https://github.com/megaease/easeagent) -  [easeagent-v2.2.8](https://github.com/megaease/easeagent/releases/tag/v2.2.8) (Released 1 month ago )
-- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v2.1.1](https://github.com/megaease/easeprobe/releases/tag/v2.1.1) ( Released 2 months ago )
+- [EaseProbe  ![](https://shields.io/github/stars/megaease/easeprobe?style=social)](https://github.com/megaease/easeprobe) -  [easeprobe-v2.1.1](https://github.com/megaease/easeprobe/releases/tag/v2.1.1) ( Released 3 months ago )
 
 ### Latest Posts
 - [MegaEase Cloud 2023.03 Significant Update](https://megaease.medium.com/megaease-cloud-2023-03-significant-update-976482c5d49e?source=rss-f6888079771f------2) (7 months ago)
